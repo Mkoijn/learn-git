@@ -1,2 +1,3 @@
 # learn-git
-For learning git/github
+
+I am using thos repositary to learn stuff.
